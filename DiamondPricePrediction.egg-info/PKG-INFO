@@ -7,3 +7,4 @@ Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
 Requires-Dist: flask
+Requires-Dist: scikit-learn
